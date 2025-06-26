@@ -55,7 +55,9 @@ Recommendations:
 
 
 Observations:
-•	Churn is not evenly spread—it’s concentrated in a few key segments.
+
+
+•	Churn is not evenly spread, it’s concentrated in a few key segments.
 •	Inactivity is a strong early warning signal.
 •	High churn among premium clients poses a serious business risk.
 
